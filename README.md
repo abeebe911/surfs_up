@@ -14,6 +14,9 @@ The minimum temperature in Oahu is 64 degrees in June while it is 54 degrees in 
 
 These statistics show that the weather in Oahu is very pleasant year-round and would be an ideal spot for a surf and ice cream shop. 
 
+![june_stats](june_stats.png)
+![dec_stats](dec_stats.png)
+
 
 # Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
